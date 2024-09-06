@@ -21,7 +21,7 @@
 
 ## 程序截图图片
 
-![示例图片](./chabot_python.jpg)
+![示例图片](./chatbot_python.jpg)
 
 ## 依赖项
 
